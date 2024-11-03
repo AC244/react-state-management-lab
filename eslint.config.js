@@ -33,8 +33,11 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
+<<<<<<< HEAD
       'react/prop-types': 'off', 
       'react/no-unescaped-entities': 'off'
+=======
+>>>>>>> 8fbdf26 (init commit)
     },
   },
 ]
